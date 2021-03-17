@@ -1,0 +1,16 @@
+******************************************************
+*12/03/21 11:55*
+*Creada la carpeta estudiantes y sus subdirectorios	*
+*Asignada la nota minima para aprobar a cada alumno	*
+*Copiado el modelo de examen a cada alumno		*
+*La nota media de la clase es : 6		*
+******************************************************
+
+******************************************************
+*12/03/21 11:57*
+*Creada la carpeta estudiantes y sus subdirectorios	*
+*Asignada la nota minima para aprobar a cada alumno	*
+*Copiado el modelo de examen a cada alumno		*
+*La nota media de la clase es : 6		*
+******************************************************
+
